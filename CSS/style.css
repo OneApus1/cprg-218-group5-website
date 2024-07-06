@@ -1,0 +1,15 @@
+nav ul{
+    list-style-type: none;
+}
+
+nav li{
+    display: inline-block;
+}
+
+.category_items:hover + .category_list{
+    display: block;
+}
+
+.category_list{
+    display: none;
+}
