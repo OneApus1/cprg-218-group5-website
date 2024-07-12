@@ -6,6 +6,10 @@
 
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap');
+font-family: "Caveat", cursive;
+
+
 .navbar{
     overflow: hidden;
     background-color: antiquewhite;
@@ -17,6 +21,7 @@
     padding: 16px;
     text-decoration: none;
     font-size: 16px;
+    font-family: 'Caveat';
 }
 
 .categories{
@@ -31,7 +36,7 @@
     color: rgb(0, 0, 0);
     padding: 14px 16px;
     background-color: inherit;
-    font-family: inherit;
+    font-family: 'Caveat';
     margin: 0;
 }
 
